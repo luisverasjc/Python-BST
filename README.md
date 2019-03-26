@@ -4,6 +4,7 @@ Commands are read line by line from stdin
 i to insert, q to query
 Insert will search for the given element. If it is not found, it will insert the element.
 Query will search for the element and return the path taken to find it.
+
 Example input:
 
 i 4
