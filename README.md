@@ -7,30 +7,25 @@ Query will search for the element and return the path taken to find it.
 
 Example input:
 
-i 4
-
-i 3
-
-i 5
-
-i 12
-
-i 3
-
+    i 4
+    i 3
+    i 5
+    i 12
+    i 3
 Output: error: duplicate value
-
-q 4
+    
+    q 4
 
 Output: found: root
 
-q 12
+    q 12
 
 Output: found: r r
-
-q 5
+    
+    q 5
 
 Output: found: r
 
-q 3
+    q 3
 
 Output: found: l
