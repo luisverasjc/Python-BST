@@ -1,5 +1,6 @@
 # Python-BST
 Binary Search Tree implementation in Python
+
 Commands are read line by line from stdin
 i to insert, q to query
 Insert will search for the given element. If it is not found, it will insert the element.
